@@ -1,0 +1,22 @@
+body {
+	background-color: lightblue;
+    font-family: "Courier New", monospace;
+}
+h1 { text-align: center; 
+	color: rgb(255, 64, 102);
+}
+
+li {
+    text-align: center;
+    border-bottom: none;
+    list-style-type: none;
+}
+
+li:last-child {
+    border-bottom: none;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
